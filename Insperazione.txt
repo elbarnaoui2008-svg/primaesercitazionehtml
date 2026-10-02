@@ -1,0 +1,464 @@
+Certo. Ti propongo una squadra **fittizia ma costruita come una vera organizzazione esport professionistica**, con 5 player, staff, identità, budget, sponsor e percorso competitivo.
+
+ ## 🎮 Organizzazione: VANTA Esports
+
+ **Nome completo:** VANTA Esports\
+ **Abbreviazione:** VNT\
+ **Anno di fondazione:** 2026\
+ **Paese:** Italia 🇮🇹\
+ **Base operativa:** Milano\
+ **Disciplina principale:** VALORANT\
+ **Roster:** 5 giocatori\
+ **Status:** organizzazione semi-pro → aspirante team professionistico\
+ **Colori:** nero, viola scuro e argento\
+ **Motto:** _“Play in the dark. Strike first.”_
+
+ ### 🏢 Identità
+
+ VANTA nasce come organizzazione italiana con l'obiettivo di entrare gradualmente nel circuito competitivo europeo senza bruciare il budget.
+
+ L'organizzazione evita inizialmente di comprare giocatori già affermati e costruisce il roster attorno a **giovani giocatori italiani ed europei**, affiancati da uno staff ridotto ma professionale.
+
+ **Logo:** una "V" geometrica nera con un piccolo taglio viola al centro.
+
+ **Valori:**
+
+ - disciplina
+- preparazione
+- analisi dei dati
+- sviluppo dei giovani
+- comunicazione professionale
+- sostenibilità economica
+
+---
+
+ # 👥 Il roster
+
+ ## 1\. 🇮🇹 Luca "Nox" Bianchi
+
+ **Età:** 21\
+ **Ruolo:** IGL / Controller\
+ **Nazionalità:** italiana\
+ **Città:** Torino\
+ **In-game style:** metodico, paziente, orientato alla lettura del round
+
+ Nox è il capitano. Non è necessariamente il giocatore con il maggior numero di kill, ma è quello che gestisce il ritmo della squadra.
+
+ ### Punti forti
+
+ - comunicazione
+- gestione dell'economia
+- mid-round calling
+- lettura degli avversari
+- leadership
+
+ ### Punti deboli
+
+ - meccaniche meno esplosive rispetto ai duelist
+- tende a essere troppo prudente nei round importanti
+
+ **Stipendio:** €1.600/mese\
+ **Contratto:** 12 mesi
+
+---
+
+ ## 2\. 🇮🇹 Matteo "Raze" Conti
+
+ **Età:** 19\
+ **Ruolo:** Duelist / Entry\
+ **Nazionalità:** italiana\
+ **Città:** Bologna
+
+ È il talento meccanico del roster.
+
+ Raze è quello che entra per primo nei site e crea spazio per i compagni.
+
+ ### Punti forti
+
+ - aim
+- aggressività
+- entry
+- clutch
+- capacità di cambiare ritmo
+
+ ### Punti deboli
+
+ - a volte forza troppo le giocate
+- può diventare prevedibile quando è sotto pressione
+
+ **Stipendio:** €1.400/mese\
+ **Contratto:** 18 mesi
+
+---
+
+ ## 3\. 🇫🇷 Hugo "Serein" Martin
+
+ **Età:** 22\
+ **Ruolo:** Initiator\
+ **Nazionalità:** francese 🇫🇷\
+ **Città:** Lione
+
+ Il giocatore più analitico del roster.
+
+ Serein si occupa soprattutto di raccogliere informazioni e preparare le entrate di Raze.
+
+ È stato scelto anche perché parla fluentemente inglese e francese e riesce a comunicare bene con il roster internazionale.
+
+ ### Punti forti
+
+ - utility usage
+- informazioni
+- flash
+- coordinazione
+- adattamento
+
+ ### Punti deboli
+
+ - fragging discontinuo
+- tende a giocare troppo per la squadra
+
+ **Stipendio:** €1.500/mese\
+ **Contratto:** 12 mesi
+
+---
+
+ ## 4\. 🇪🇸 Álvaro "Vex" García
+
+ **Età:** 20\
+ **Ruolo:** Sentinel / Lurker\
+ **Nazionalità:** spagnola 🇪🇸\
+ **Città:** Valencia
+
+ Vex è il giocatore che spesso si trova lontano dal resto della squadra.
+
+ Il suo compito è creare pressione sulla mappa e punire gli avversari quando ruotano.
+
+ ### Punti forti
+
+ - lurk
+- clutch
+- posizionamento
+- pazienza
+- lettura delle rotazioni
+
+ ### Punti deboli
+
+ - comunicazione durante i round caotici
+- qualche difficoltà contro squadre molto aggressive
+
+ **Stipendio:** €1.300/mese\
+ **Contratto:** 12 mesi
+
+---
+
+ ## 5\. 🇮🇹 Andrea "Kiro" Ferri
+
+ **Età:** 20\
+ **Ruolo:** Flex / Initiator\
+ **Nazionalità:** italiana 🇮🇹\
+ **Città:** Roma
+
+ È il giocatore più versatile.
+
+ Può cambiare agente e ruolo in base alla mappa, permettendo a VANTA di avere composizioni differenti.
+
+ ### Punti forti
+
+ - flessibilità
+- utility
+- adattamento
+- teamplay
+- conoscenza del gioco
+
+ ### Punti deboli
+
+ - non eccelle in un singolo ruolo
+- meno impatto individuale rispetto a Raze
+
+ **Stipendio:** €1.350/mese\
+ **Contratto:** 12 mesi
+
+---
+
+ # 📊 Ruoli
+
+ | Player | Ruolo principale | Funzione |
+| --- | --- | --- |
+| **Nox** | Controller / IGL | Strategia |
+| **Raze** | Duelist | Entry / Fragging |
+| **Serein** | Initiator | Info / Setup |
+| **Vex** | Sentinel | Lurk / Anchor |
+| **Kiro** | Flex | Utility / Support |
+
+La composizione è volutamente realistica: non ci sono cinque superstar. Ogni giocatore ha una funzione precisa e il roster ha qualche punto debole che un avversario può sfruttare.
+
+---
+
+ # 🧠 Staff
+
+ VANTA non avrebbe inizialmente uno staff enorme.
+
+ ### Head Coach — Marco "Rook" De Santis
+
+ **Età:** 31\
+ Ex giocatore semi-pro.
+
+ Si occupa di:
+
+ - preparazione tattica
+- review delle partite
+- gestione degli allenamenti
+- rapporti con i giocatori
+
+ **Stipendio:** €2.200/mese
+
+ ### Assistant Coach / Analyst — Erik "Frame" Novak
+
+ **Età:** 26\
+ **Nazionalità:** croata 🇭🇷
+
+ Analizza:
+
+ - VOD
+- statistiche
+- comportamenti degli avversari
+- economie
+- setup difensivi
+
+ **Stipendio:** €1.200/mese
+
+ ### Team Manager — Giulia Moretti
+
+ Gestisce:
+
+ - trasferte
+- contratti
+- sponsor
+- tornei
+- comunicazione con gli organizzatori
+
+ **Stipendio:** €1.700/mese
+
+---
+
+ # 🏠 Gaming house
+
+ VANTA **non parte con una gaming house gigantesca**.
+
+ Ha invece un piccolo bootcamp a Milano:
+
+ - 5 postazioni gaming
+- 2 PC di riserva
+- sala riunioni
+- streaming room
+- cucina
+- area relax
+- connessione fibra dedicata
+- insonorizzazione parziale
+
+ I giocatori vivono principalmente nei propri appartamenti e si riuniscono durante i bootcamp.
+
+ Questo permette all'organizzazione di mantenere i costi sotto controllo.
+
+---
+
+ # 💰 Budget annuale
+
+ Un'organizzazione realistica di questo livello potrebbe avere un budget iniziale nell'ordine di **€180.000–€250.000**, a seconda di trasferte, stipendi e struttura.
+
+ ### Esempio di budget VANTA
+
+ | Voce | Costo annuo |
+| --- | --- |
+| 5 giocatori | €85.800 |
+| Coach | €26.400 |
+| Analyst | €14.400 |
+| Team manager | €20.400 |
+| Bootcamp / ufficio | €18.000 |
+| Hardware | €10.000 |
+| Viaggi | €15.000 |
+| Marketing | €12.000 |
+| Varie | €8.000 |
+| **Totale** | **€210.000** |
+
+I numeri sono volutamente compatibili con una realtà emergente e non con una grande organizzazione internazionale.
+
+---
+
+ # 🤝 Sponsor
+
+ VANTA parte con tre sponsor immaginari.
+
+ ### **NEXA**
+
+ Brand di periferiche gaming.
+
+ Fornisce:
+
+ - mouse
+- tastiere
+- cuffie
+- mousepad
+
+ ### **Volt**
+
+ Energy drink immaginario.
+
+ Sponsorizza il team con circa **€25.000 annui**.
+
+ ### **ByteForge**
+
+ Azienda italiana di componentistica PC.
+
+ Fornisce parte dell'hardware e circa **€15.000 annui**.
+
+ **Ricavi sponsor iniziali:** circa €60.000/anno.
+
+ Il resto del budget arriva da investitori e capitale dei fondatori.
+
+---
+
+ # 🏆 Obiettivo competitivo
+
+ VANTA non nasce dichiarando di voler vincere subito un campionato internazionale.
+
+ ### Anno 1
+
+ Obiettivo:
+
+ - entrare stabilmente nelle competizioni regionali
+- costruire una fanbase
+- raggiungere i playoff
+- sviluppare il roster
+
+ ### Anno 2
+
+ Obiettivo:
+
+ - competere per i titoli regionali
+- aumentare il budget
+- partecipare a eventi LAN più importanti
+- eventualmente acquistare un sesto giocatore come substitute
+
+ ### Anno 3
+
+ Obiettivo:
+
+ - provare a entrare stabilmente nel livello internazionale
+
+---
+
+ # 📈 Stile di gioco
+
+ VANTA gioca principalmente un **VALORANT metodico e information-based**.
+
+ La filosofia di Nox è:
+
+ > ottenere informazioni → costringere l'avversario a reagire → punire la rotazione.
+
+ Un round tipico potrebbe essere:
+
+ **0:00–0:20**\
+ Serein raccoglie informazioni.
+
+ **0:20–0:40**\
+ Vex crea pressione sul lato opposto.
+
+ **0:40–0:55**\
+ Nox modifica il piano sulla base delle informazioni.
+
+ **0:55–1:10**\
+ Raze entra per primo.
+
+ **1:10+**\
+ Kiro e Serein supportano l'esecuzione.
+
+ Non è una squadra costruita per vincere ogni round con la pura mira.
+
+---
+
+ # 🎨 Social media
+
+ **X:** `@VANTAesports`\
+ **Instagram:** `@vanta.esports`\
+ **TikTok:** `@vantaesports`\
+ **YouTube:** `VANTA Esports`
+
+ Contenuti principali:
+
+ - highlights
+- mic check
+- vlog dei bootcamp
+- interviste
+- VOD review
+- contenuti TikTok
+- presentazione delle nuove divise
+
+---
+
+ # 👕 Divise
+
+ ### Home Jersey
+
+ - 70% nero
+- 20% viola
+- 10% argento
+- logo VANTA sul petto
+- nickname sulla schiena
+
+ ### Away Jersey
+
+ - grigio chiaro
+- dettagli viola
+- logo nero
+
+ Il design è abbastanza sobrio: niente colori fluorescenti o grafiche eccessive, così sembra una vera divisa da organizzazione esport piuttosto che una squadra inventata.
+
+---
+
+ # 💵 Valore dell'organizzazione
+
+ Alla fondazione, VANTA potrebbe essere valutata indicativamente intorno ai **€350.000–€500.000**, considerando roster, contratti sponsor, attrezzatura, brand e capitale investito.
+
+ Non sarebbe ancora una grande organizzazione: sarebbe una **startup esport con ambizioni professionistiche**.
+
+---
+
+ # 🔥 La storia della squadra
+
+ VANTA viene fondata da **Davide Rinaldi**, ex manager di un'agenzia digitale milanese.
+
+ Dopo aver seguito per anni il settore esport, decide di creare un'organizzazione diversa dalle classiche startup che spendono immediatamente grandi cifre per acquistare giocatori famosi.
+
+ Il primo scouting porta a Nox, che diventa il leader del progetto.
+
+ Nox propone Raze e Kiro, mentre Serein e Vex vengono individuati attraverso tornei online europei.
+
+ Dopo circa tre mesi di scrim, il quintetto viene ufficializzato.
+
+ Il primo obiettivo non è diventare famoso: è dimostrare che il roster può competere contro squadre con budget significativamente superiori.
+
+ **Primo torneo:** qualificazioni regionali.\
+ **Primo risultato:** 3º posto.\
+ **Premio:** €4.000.\
+ **Momento simbolico:** vittoria contro una squadra considerata favorita dopo un overtime particolarmente combattuto.
+
+ Da quel momento VANTA comincia a essere considerata una delle organizzazioni emergenti da tenere d'occhio.
+
+---
+
+ ## 🧩 Il dettaglio che la rende realistica
+
+ La cosa più importante è che **VANTA non è perfetta**.
+
+ Ha:
+
+ - un duelist molto forte ma ancora inesperto;
+- un IGL intelligente ma non eccezionale meccanicamente;
+- un flex versatile ma poco appariscente;
+- un lurker talentuoso ma discontinuo;
+- un initiator molto utile alla squadra ma non sempre dominante.
+
+ Questa combinazione crea una squadra credibile: **ha un'identità, dei punti di forza e soprattutto problemi concreti da risolvere**.
+
+ Se vuoi, posso anche costruire **la stagione completa di VANTA**, con calendario dei tornei, risultati partita per partita, classifica, rivalità, trasferimenti, mercato dei giocatori, sponsor che arrivano, drama interno e crescita del team fino al livello internazionale.
